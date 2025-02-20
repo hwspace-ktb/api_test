@@ -1,0 +1,12 @@
+POST https://bookish-engine-695wgjprjr64hxvgp-8000.app.github.dev/AND
+
+###
+
+POST https://bookish-engine-695wgjprjr64hxvgp-8000.app.github.dev/NOT
+
+###
+
+POST https://bookish-engine-695wgjprjr64hxvgp-8000.app.github.dev/OR
+
+###
+GET https://bookish-engine-695wgjprjr64hxvgp-8000.app.github.dev/predict/1/0
